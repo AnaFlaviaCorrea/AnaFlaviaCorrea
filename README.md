@@ -20,7 +20,7 @@ I believe it's never too late to discover new dreams and do everything possible 
 ## Languages i'm interested
 - Python
 - R
-- Vue
+- Vue.js
 - Java
 
 <div style="display: inline_block"><br>
