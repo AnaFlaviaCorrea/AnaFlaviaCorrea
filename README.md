@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mathematics and I've been teaching classes for about 5 years. To improve remote classes, I started taking an HTML course, and then I fell in love with other languages. I started taking small courses in the area and to close it with a flourish I passed the entrance exam at USJ.
+I'm Mathematics and I've been teaching classes for about 5 years. To improve remote classes, I started taking an HTML course, and then I fell in love with other languages. I started taking small courses in the area and to close it with a flourish I passed the entrance exam at USJ. But now, due to adverse situations, I am studying at Senac SC.
 
 I study English and in my spare time I study Italian
 
