@@ -6,7 +6,7 @@ I study English and in my spare time I study Italian
 
 I believe it's never too late to discover new dreams and do everything possible to achieve them.
 
-## Languages i'm studying
+## Languages I'm studying
 - JavaScript
 - HTML5
 - CSS3
@@ -22,7 +22,7 @@ I believe it's never too late to discover new dreams and do everything possible 
   </div>
 <br>
 
-## Languages i'm interested
+## Languages I'm interested
 - Python
 - R
 - Vue.js
