@@ -60,7 +60,4 @@ I believe it's never too late to discover new dreams and do everything possible 
  
   </div>
   
-
-  
-
 <br>
