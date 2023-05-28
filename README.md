@@ -13,7 +13,7 @@ I believe it's never too late to discover new dreams and do everything possible 
   <a href="mailto:anaflaviadefreitascorrea@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5548998482742&text=Oi%20Ana" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
-##
+  ##
   <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&theme=dark" />
