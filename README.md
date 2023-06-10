@@ -25,8 +25,8 @@ I believe it's never too late to discover new dreams and do everything possible 
    <div><br>
    <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=dark"> -->
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaCorrea&hide_progress=true"/>
+   
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaCorre&layout=compact"/>
   </a>
 
 </div><br>
