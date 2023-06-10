@@ -15,11 +15,14 @@ I believe it's never too late to discover new dreams and do everything possible 
 
   
   <div><br>
+   <a href="https://github.com/AnaFlaviaCorrea">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaCorrea&layout=compact&langs_count=10"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=dark"> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=transparent&layout=compact"/>
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=transparent&layout=compact"/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaCorrea&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaCorrea&layout=compact"/> -->
   </a>
   
   </a>
