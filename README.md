@@ -17,6 +17,7 @@ I believe it's never too late to discover new dreams and do everything possible 
   <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaCorrea&show_icons=true&theme=radical"/>
   </a>
 
 </div><br>
